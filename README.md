@@ -1,5 +1,5 @@
  👋 Hi, I’m @Chimexpytha
-About Me
+
 I'm a certified data analyst with a passion for uncovering insights from data and turning them into actionable strategies. 
 My journey began in healthcare as a radiographer and sonographer, where I developed a deep appreciation for the role of data in improving patient outcomes. 
 This experience inspired me to dive into the world of data analytics.
